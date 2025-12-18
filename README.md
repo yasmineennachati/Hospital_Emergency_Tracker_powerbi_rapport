@@ -1,7 +1,3 @@
-Voici une version réécrite avec des icônes pour rendre le document plus professionnel et visuellement structuré :
-
----
-
 # 🏥 Hospital Emergency Room Analytics
 
 ## 📊 Power BI Dashboard Project
