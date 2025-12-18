@@ -143,8 +143,4 @@ Aspiring Data Analyst | Business Intelligence
 
 Feel free to connect with me on LinkedIn or GitHub for feedback or collaboration.
 
----
 
-Si tu veux, je peux te **faire une version encore plus “pro” avec des icônes colorées et une hiérarchie visuelle pour GitHub README** qui sera vraiment impactante.
-
-Veux‑tu que je fasse ça ?
